@@ -1,0 +1,24 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "game tic-tac-toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/avatarsik6699/tic-tac-toe.git"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "game",
+    "js"
+  ],
+  "author": "Vladislav Godlevskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avatarsik6699/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/avatarsik6699/tic-tac-toe#readme"
+}
